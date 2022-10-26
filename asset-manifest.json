@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-Port/static/css/main.a102879e.css",
+    "main.js": "/React-Port/static/js/main.a5b9a5a6.js",
+    "static/js/787.1ed0c42c.chunk.js": "/React-Port/static/js/787.1ed0c42c.chunk.js",
+    "static/media/topStocks.png": "/React-Port/static/media/topStocks.a042c55800cfaeb9b082.png",
+    "static/media/gameOn.png": "/React-Port/static/media/gameOn.c0df4ec551cd246d8546.png",
+    "static/media/weather.png": "/React-Port/static/media/weather.9b8f892788095caf09e0.png",
+    "static/media/employee.png": "/React-Port/static/media/employee.109d6c15a097b800dafa.png",
+    "index.html": "/React-Port/index.html",
+    "main.a102879e.css.map": "/React-Port/static/css/main.a102879e.css.map",
+    "main.a5b9a5a6.js.map": "/React-Port/static/js/main.a5b9a5a6.js.map",
+    "787.1ed0c42c.chunk.js.map": "/React-Port/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a102879e.css",
+    "static/js/main.a5b9a5a6.js"
+  ]
+}
